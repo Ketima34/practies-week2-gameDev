@@ -67,4 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
+    "dotnet.defaultSolution": "practies-week2.slnx"
 }
